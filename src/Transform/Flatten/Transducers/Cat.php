@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Cognesy\Stream\Transform\Flatten\Tranducers;
+namespace Cognesy\Stream\Transform\Flatten\Transducers;
 
 use Cognesy\Stream\Contracts\Reducer;
 use Cognesy\Stream\Contracts\Transducer;
@@ -22,4 +22,3 @@ final readonly class Cat implements Transducer
         );
     }
 }
-

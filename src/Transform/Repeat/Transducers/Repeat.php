@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Cognesy\Stream\Transform\Repeat\Tranducers;
+namespace Cognesy\Stream\Transform\Repeat\Transducers;
 
 use Cognesy\Stream\Contracts\Reducer;
 use Cognesy\Stream\Contracts\Transducer;
